@@ -4,6 +4,6 @@
 ![image](https://user-images.githubusercontent.com/52873978/146772705-e624ac59-6155-4968-be1b-8483e55a5a03.png)
 ![image](https://user-images.githubusercontent.com/52873978/146772732-2b716772-83bd-4366-b05e-9f1259a22e7c.png)
 ![image](https://user-images.githubusercontent.com/52873978/146772752-4955eab6-36f6-4e1c-947b-24fe28c2b1f4.png)
-
+运行run.py即可执行代码，其中mysql数据库需要根据本地情况进行调整。
 
 
